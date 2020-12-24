@@ -1,0 +1,108 @@
+#banner{
+	background-image:url(../image/banner.jpg);
+	background-repeat:no-repeat;
+	width:989px;
+	height:225px;
+}
+	
+#logo{
+	background-image:url(../image/logo.png);
+	background-repeat:no-repeat;
+	width:218px;
+	height:199px;
+}
+
+#navigator{
+	background-color:black;
+	width:989px;
+	height:50px;
+}
+	
+#navigator a {
+	float:left;
+	display:block;
+	color:white;
+	text-align:center;
+	padding:14px 29px;
+	text-decoration:none;
+}	
+
+#navigator a:hover {
+	background-color:#ddd;
+	color:blue;
+	
+}
+
+.iphone{
+
+  width: 100%;
+  height: 500px;
+  background-size: 100% 100%;
+  margin:0;
+  padding:0;
+  border:0;
+  
+  
+	
+}
+
+#iphone1{
+	background-image:url(../image/apple11.png);
+	background-repeat:no-repeat;
+	
+}
+
+
+.details{
+	display:block;
+	width:990px;
+	height:500px;
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+#detail1{
+	background-color:lightgray;
+	
+	
+}	
+
+
+
+
+h1{
+	float:left;
+	margin-left:5;
+	font-family:Brush Script Std;
+	color:red;
+}
+
+h4{
+	float:left;
+	margin-left:8px;
+	font-family:Arial;
+	color:white;
+}
+
+#footer{
+	background-image:url(../image/footer.png);
+	background-repeat:no-repeat;
+	width:989px;
+	height:100px;
+	padding:20px;
+	text-align:center;
+}
+	
+	
+	
+#main{
+	margin:auto;
+	width:989px;
+	padding:10px;
+	background-color:white;
+}
+
+body{
+		background-image:url(../image/backg.png);
+}
